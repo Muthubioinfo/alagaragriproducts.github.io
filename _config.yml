@@ -4,7 +4,7 @@ description:
   This is the official website for Alagar Biotech Product Private Limited
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-twitter_username: @alagarbiotech
+twitter_username: alagarbiotech
 github_username:  Muthubioinfo
 
 # Build settings
