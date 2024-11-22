@@ -1,6 +1,6 @@
 title: Alagar Biotech Product Pvt Ltd
 email: alagarbioteches091@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: 
   This is the official website for Alagar Biotech Product Private Limited
 
 baseurl: "/" # the subpath of your site, e.g. /blog
