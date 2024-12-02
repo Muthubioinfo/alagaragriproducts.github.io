@@ -1,29 +1,14 @@
 ---
 layout: page
 title: Contact us
-permalink: /Contact us/
+permalink: /Get in touch/
 ---
 
-For enquiry regarding our agricultural/horticultural products, please
-contact our supervisors
 
-Mavin Kumar
+For enquiry please contact 9498402214 or send us a message through WhatsApp
 
-Contact:
+Email us: alagarbioteches091@gmail.com
 
-
-
-Tamilselvi
-
-Contact:
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+permalink: /Available positions/
 
 
-[jekyll-organization]: https://github.com/jekyll
