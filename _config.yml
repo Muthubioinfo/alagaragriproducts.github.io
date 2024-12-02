@@ -8,7 +8,7 @@ twitter_username: alagarbiotech
 github_username:  Muthubioinfo
 
 # Build settings
-theme: minimal mistakes
+theme: minima
 plugins:
   - jekyll-feed
 
