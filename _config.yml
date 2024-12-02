@@ -9,6 +9,7 @@ github_username:  Muthubioinfo
 
 # Build settings
 theme: minima
+markdown: index.md
 plugins:
   - jekyll-feed
 
