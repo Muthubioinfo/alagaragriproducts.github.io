@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to the Alagar Biotech!"
+title:  "Welcome to Alagar Biotech!"
 date:   2024-06-24 12:37:33 +0530
-categories: jekyll update
+categories: update
 ---
 ggmskmvksdmvkodbkdb k
 
