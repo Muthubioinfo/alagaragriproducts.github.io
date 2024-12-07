@@ -3,14 +3,14 @@ email: alagarbioteches091@gmail.com
 description: 
   This is the official website for Alagar Biotech Product Private Limited
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-serif-theme/" # the subpath of your site, e.g. /blog
 twitter_username: alagarbiotech
 github_username:  Muthubioinfo
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: default
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
