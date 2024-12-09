@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Get in touch
 permalink: /Get in touch/
 ---
